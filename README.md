@@ -30,6 +30,7 @@
 - [Конспект лекции о том, как работают потоки и какие у есть дополнительные функции у библиотеки thearding](https://docs.google.com/document/d/1b4qjEsRi7VvMsDPu5z8JZ8yEedliFS0CiY2dVRAwVXc/edit?usp=sharing)
 - Конспект о multiprocessing (в разработке)
 - Конспект об асинхронности (в разработке)
+- [Ассинхронность с AsyncIO - думаю, это **лучший ролик для тех, кто хочет быстро все понять**](https://www.youtube.com/watch?v=fsOUCxBowD8)
 - [GIL в Python: зачем он нужен и как с этим жить (Григорий Петров)](https://youtu.be/AWX4JnAnjBE)
 
 Теоретические материалы (рассширенная версия):
